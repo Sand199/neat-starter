@@ -1,9 +1,9 @@
 items:
   - text: Home
-    url: "#"
+    url: /
   - text: About
-    url: "#"
+    url: /about
   - text: Contact
-    url: "#"
+    url: /contact
   - text: Blog
     url: /blog
